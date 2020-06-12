@@ -1,0 +1,1 @@
+# Extracting-Stock-Sentiments-from-News-Headlines-using-Sentimental-Analysis
